@@ -1,0 +1,4 @@
+/Users/sting/Documents/Codes/Cpp/ChernoCpp/Game/cmake-build-debug/CMakeFiles/engine.dir
+/Users/sting/Documents/Codes/Cpp/ChernoCpp/Game/cmake-build-debug/CMakeFiles/Game.dir
+/Users/sting/Documents/Codes/Cpp/ChernoCpp/Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sting/Documents/Codes/Cpp/ChernoCpp/Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

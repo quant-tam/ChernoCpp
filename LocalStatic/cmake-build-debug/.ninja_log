@@ -1,0 +1,13 @@
+# ninja log v6
+1	282	1746870253344410525	CMakeFiles/LocalStatic.dir/main.cpp.o	df5429f1e5dfa2ad
+283	309	1746870253626081466	LocalStatic	5b8f1cf8a5ce2a6a
+5	288	1746870261141190086	CMakeFiles/LocalStatic.dir/main.cpp.o	df5429f1e5dfa2ad
+288	315	1746870261423992198	LocalStatic	5b8f1cf8a5ce2a6a
+5	529	1746871946834124194	CMakeFiles/LocalStatic.dir/main.cpp.o	df5429f1e5dfa2ad
+530	612	1746871947359149915	LocalStatic	5b8f1cf8a5ce2a6a
+4	355	1746872275078739627	CMakeFiles/LocalStatic.dir/main.cpp.o	df5429f1e5dfa2ad
+355	382	1746872275428829824	LocalStatic	5b8f1cf8a5ce2a6a
+3	284	1746872411715304472	CMakeFiles/LocalStatic.dir/main.cpp.o	df5429f1e5dfa2ad
+284	308	1746872411996916515	LocalStatic	5b8f1cf8a5ce2a6a
+2	268	1746872432510462582	CMakeFiles/LocalStatic.dir/main.cpp.o	df5429f1e5dfa2ad
+268	292	1746872432776287611	LocalStatic	5b8f1cf8a5ce2a6a
