@@ -1,2 +1,5 @@
 CmakeLists.txt
-cmake-build-debug/
+*/cmake-build-debug/
+.vscode/
+.clang-format
+
